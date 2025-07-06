@@ -1,16 +1,16 @@
-### ✅ 4. File Explorer (Console) 🗂️
+### ✅ 5. Mini Search Engine 🔍
 
 **Goals:**
 
-- Navigate file system from console
-- Create/delete/search files and folders
-- Handle I/O exceptions
+- Search keywords inside a `.txt` file
+- Show lines where the word appears
+- (Bonus) Most frequent word count
 
 **What it does:**
 
-- List folder contents
-- Create or delete files/folders
-- Search for files by name
-- Robust error handling
+- Read file line by line
+- Search for keywords
+- Display matches with line numbers
+- Count word frequency (bonus)
 
-📌 **Concepts Used:** `File`, `Scanner`, exception handling, I/O logic
+📌 **Concepts Used:** `BufferedReader`, `HashMap<String, Integer>`, string handling, file parsing
