@@ -1,4 +1,4 @@
-### ✅ 1. Secure Password Manager 🔐
+### ✅ 1. Secure passwords Manager 🔐
 
 **Goals:**
 
