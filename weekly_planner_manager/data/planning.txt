@@ -1,0 +1,11 @@
+Weekly Schedule:
+
+monday:
+    - [09:00] Prepare project report
+tuesday:
+    - [14:30] Team meeting
+wednesday: (No tasks)
+thursday: (No tasks)
+friday: (No tasks)
+saturday: (No tasks)
+sunday: (No tasks)
